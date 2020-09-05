@@ -5,4 +5,4 @@
 
 - `A mandelbrot set fractal viewer in brainf*** written by Erik Bosman`
 
-- And simple "Hello World!"
+- `And simple "Hello World!"`
