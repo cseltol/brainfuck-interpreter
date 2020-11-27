@@ -1,3 +1,5 @@
+
+
 # BrainFuck Interpreter 
 # Cопоставим начало и конец каждого цикла
 def block(code):
@@ -64,5 +66,5 @@ def run(code):
 
         i += 1
 
-code = input()
+code = open('filename', 'r')
 run(code)
