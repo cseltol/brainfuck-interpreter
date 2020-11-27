@@ -1,5 +1,3 @@
-
-
 # BrainFuck Interpreter 
 # Cопоставим начало и конец каждого цикла
 def block(code):
